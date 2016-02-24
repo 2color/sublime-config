@@ -6,12 +6,12 @@
 	"installed_packages":
 	[
 		"Babel",
+		"Babel Snippets",
 		"EditorConfig",
 		"Git",
 		"Markdown Preview",
 		"Package Control",
 		"SublimeLinter",
-		"SublimeLinter-contrib-eslint",
-		"Terminal"
+		"SublimeLinter-contrib-eslint"
 	]
 }
