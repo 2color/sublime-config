@@ -1,4 +1,6 @@
-[    
+[
     { "keys": ["ctrl+tab"], "command": "next_view" },
-    { "keys": ["ctrl+shift+tab"], "command": "prev_view" }
+    { "keys": ["ctrl+shift+tab"], "command": "prev_view" },
+    { "keys": ["super+b"], "command": "toggle_side_bar" },
+    { "keys": ["super+b", "super+k"], "command": "build" }
 ]
