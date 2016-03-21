@@ -10,8 +10,11 @@
 		"EditorConfig",
 		"Git",
 		"Markdown Preview",
+		"nginx",
 		"Package Control",
+		"Sass",
 		"SublimeLinter",
-		"SublimeLinter-contrib-eslint"
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-json"
 	]
 }
