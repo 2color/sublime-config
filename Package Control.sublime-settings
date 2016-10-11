@@ -7,14 +7,21 @@
 	[
 		"Babel",
 		"Babel Snippets",
+		"DocBlockr",
 		"EditorConfig",
+		"ESLint-Formatter",
 		"Git",
+		"GoImports",
+		"GoSublime",
+		"JSON Reindent",
 		"Markdown Preview",
 		"nginx",
 		"Package Control",
+		"Pretty JSON",
 		"Sass",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-contrib-standard",
 		"SublimeLinter-json"
 	]
 }
